@@ -1,0 +1,32 @@
+{
+  "8901234567807": {
+    "name": "Bread",
+    "price": 40.0,
+    "stock": 10
+  },
+  "8901234567814": {
+    "name": "Biscuit",
+    "price": 20.0,
+    "stock": 10
+  },
+  "8901234567821": {
+    "name": "Juice",
+    "price": 50.0,
+    "stock": 10
+  },
+  "8901234567838": {
+    "name": "Soap",
+    "price": 35.0,
+    "stock": 10
+  },
+  "8901234567845": {
+    "name": "Center Fresh",
+    "price": 1.0,
+    "stock": 6
+  },
+  "8901234567890": {
+    "name": "Milk",
+    "price": 30.0,
+    "stock": 7
+  }
+}
